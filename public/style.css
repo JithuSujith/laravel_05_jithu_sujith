@@ -1,0 +1,87 @@
+.navbar{
+    background-color: #173D35;
+    
+}
+.heroSection {
+    background-image:
+        linear-gradient(rgba(23, 61, 53, 0.5), rgba(23, 61, 53, 0.5)),
+        url('/images/image5.jpeg');
+
+    background-size: cover;
+    background-position: center;
+    min-height: 60vh;
+}
+
+.introdetail{
+    background-color: #173D35 ;
+    color: white;
+    width: 100%;
+    margin: 0;
+}
+
+.carousel-item img {
+    width: 100%;
+    height: 350px;
+    object-fit: cover;
+}
+
+.heading{
+    color: #173D35;
+}
+
+.contactSection {
+    
+    color:black;
+    padding: 70px 20px;
+    min-height: 30vh;
+    border: 2px solid #173D35;
+}
+
+.contactSection h2 {
+    margin-bottom: 15px;
+}
+
+.contactSection h3 {
+    color: #173D35 ;
+    margin-bottom: 20px;
+    
+}
+
+.contactSection p {
+    max-width: 750px;
+    margin: 0 auto 30px;
+    line-height: 1.8;
+}
+
+.contactBtn {
+    background-color:#173D35;
+    color: white;
+    padding: 12px 30px;
+    font-weight: bold;
+}
+
+.contactBtn:hover {
+    background-color: #F8F3E8;
+    color: #173D35;
+}
+
+
+.contactHerosec{
+     background-image:
+        linear-gradient(rgba(23, 61, 53, 0.3), rgba(23, 61, 53, 0.3)),
+        url('images/Homepage.jpeg');
+
+    background-size: cover;
+    background-position: center;
+    min-height: 60vh;
+    width: 100vh;
+    object-fit: contain;
+    margin: 0;
+    padding: 0;
+}
+
+.btn{
+    background-color: #173D35;
+    color: white;
+}
+
